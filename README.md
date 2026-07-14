@@ -29,7 +29,7 @@ pip install streamlit pandas altair
 2. Start the app:
 
 ```bash
-streamlit run dashboard.py
+streamlit run dashboard.py   or    python -m sttreamlit run dashboard.py
 ```
 
 ### Notes
